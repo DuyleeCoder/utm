@@ -2,7 +2,7 @@
 
 var button=document.querySelector('.but')
 
-
+//test github
 
 
 var SttLong=['NUN','A','B','C','D','E','F','G','H','I']
